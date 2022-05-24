@@ -1,4 +1,4 @@
-﻿using MLC.Model.Enums;
+﻿using MangaLibCollection.Model.Enums;
 using System.ComponentModel.DataAnnotations;
 
 namespace MangaLibCollection.DataAccess.Model

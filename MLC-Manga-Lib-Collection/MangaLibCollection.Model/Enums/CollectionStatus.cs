@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MLC.Model.Enums
+namespace MangaLibCollection.Model.Enums
 {
     [Flags]
     public enum CollectionStatus
