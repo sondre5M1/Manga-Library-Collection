@@ -26,6 +26,6 @@ namespace MangaLibCollection.DataAccess.Model
 
         public int MangaCollectionId { get; set; }
 
-        public int ReviewCollectionId { get; set; }
+        public int MangaReviewCollectionId { get; set; }
     }
 }
